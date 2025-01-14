@@ -3,9 +3,9 @@
  * @param {string} email - The email address to validate.
  * @returns {boolean} True if the email is valid, otherwise false.
  */
-function isValidEmail(email) {
+function isValidEmail(email: string) {
     const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return regex.test(email);
   }
   
-  module.exports = isValidEmail;
+module.exports = isValidEmail;

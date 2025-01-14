@@ -3,7 +3,7 @@
  * @param {string} phone - The phone number to validate.
  * @returns {boolean} True if the phone number is valid, otherwise false.
  */
-function isValidPhoneNumber(phone) {
+function isValidPhoneNumber(phone: string) {
     const regex = /^\+?[1-9]\d{1,14}$/;
     return regex.test(phone);
   }

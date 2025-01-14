@@ -3,7 +3,7 @@
  * @param {string} url - The URL to validate.
  * @returns {boolean} True if the URL is valid, otherwise false.
  */
-function isValidURL(url) {
+function validateURL(url: string | URL) {
     try {
       new URL(url);
       return true;
@@ -12,4 +12,4 @@ function isValidURL(url) {
     }
   }
   
-  module.exports = isValidURL;
+  module.exports = validateURL;
