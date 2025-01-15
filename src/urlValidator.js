@@ -3,7 +3,7 @@
  * @param {string} url - The URL to validate.
  * @returns {boolean} True if the URL is valid, otherwise false.
  */
-function validateURL(url: string | URL) {
+function validateURL(url) {
     try {
       new URL(url);
       return true;
