@@ -4,7 +4,7 @@
 
 This repository is an example of how to build an NPM package and serves as a practical companion to a series of in-depth articles. Each article guides you step by step through the process of creating, publishing, and maintaining your own NPM packages.
 
----
+--- 
 
 ## Learn How to Build Your Own NPM Package
 
