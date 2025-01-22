@@ -19,7 +19,7 @@ Follow these comprehensive guides to gain a solid understanding of the process:
 3. **[How to Build Your First NPM Package: Validators](https://medium.com/@landonwjohnson)**  
    A practical, beginner-friendly guide to building your first NPM package, focusing on validators.
 
-4. **Adding TypeScript to Your NPM Package**  
+4. **[Adding TypeScript to Your NPM Package](https://medium.landonjohnson.dev/how-to-add-typescript-to-your-npm-package-272d013809b9)**
    Step-by-step instructions to integrate TypeScript, ensuring better type safety and developer experience.
 
 5. **Testing Your NPM Package**  
