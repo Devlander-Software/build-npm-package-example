@@ -19,18 +19,19 @@ Follow these comprehensive guides to gain a solid understanding of the process:
 3. **[How to Build Your First NPM Package: Validators](https://medium.com/@landonwjohnson)**  
    A practical, beginner-friendly guide to building your first NPM package, focusing on validators.
    - [Source Code](https://github.com/Devlander-Software/build-npm-package-example/tree/javascript-babel)
-   - [Blog Article](https://medium.landonjohnson.dev/how-to-build-your-first-npm-package-validators-ad7d72d303d2)**  
+   - [Blog Article](https://medium.landonjohnson.dev/how-to-build-your-first-npm-package-validators-ad7d72d303d2)
 
 4. **[Adding TypeScript to Your NPM Package](https://medium.landonjohnson.dev/how-to-add-typescript-to-your-npm-package-272d013809b9)**
    Step-by-step instructions to integrate TypeScript, ensuring better type safety and developer experience.
    - [Source Code](https://github.com/Devlander-Software/build-npm-package-example/tree/typescript)
-   - [Blog Article](https://medium.landonjohnson.dev/how-to-add-typescript-to-your-npm-package-272d013809b9)**   
+   - [Blog Article](https://medium.landonjohnson.dev/how-to-add-typescript-to-your-npm-package-272d013809b9)
 
 
 
 5. **Testing Your NPM Package**  
    Learn how to set up testing for your package to guarantee reliability and maintainability.
    - [Source Code](hthttps://github.com/Devlander-Software/build-npm-package-example/tree/adding-tests)
+   - Coming out next week
    
 
 6. **Publishing and Versioning Your NPM Package Using CI/CD**  
