@@ -33,17 +33,19 @@ Follow these comprehensive guides to gain a solid understanding of the process:
    - [Source Code](hthttps://github.com/Devlander-Software/build-npm-package-example/tree/adding-tests)
    - Coming out next week
    
-
-6. **Publishing and Versioning Your NPM Package Using CI/CD**  
+6. **Setting up ESlint and Prettier** (Current Branch)
+   Learn how to setup eslint and prettier to help find syntax errors, and auto format your package 
+   
+7. **Publishing and Versioning Your NPM Package Using CI/CD**  
    Automate your release process with CI/CD workflows to publish and version your package seamlessly.
 
-7. **Advanced Features for NPM Packages**  
+8. **Advanced Features for NPM Packages**  
    Explore advanced functionalities such as custom scripts, hooks, and optimized configurations.
 
-8. **Best Practices for Building and Maintaining NPM Packages**  
+9. **Best Practices for Building and Maintaining NPM Packages**  
    Tips and techniques for ensuring the longevity, security, and performance of your package.
 
-9. **How to Create a Private NPM Package**  
+10. **How to Create a Private NPM Package**  
    A guide for building private packages for internal or organizational use.
 
 ---
