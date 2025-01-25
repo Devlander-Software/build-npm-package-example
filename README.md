@@ -33,7 +33,8 @@ Follow these comprehensive guides to gain a solid understanding of the process:
    - [Source Code](hthttps://github.com/Devlander-Software/build-npm-package-example/tree/adding-tests)
    - Coming out next week
    
-6. **Setting up ESlint and Prettier** (Current Branch)
+6. **Setting up ESlint and Prettier** (Current Branch):
+
    Learn how to setup eslint and prettier to help find syntax errors, and auto format your package 
    
 7. **Publishing and Versioning Your NPM Package Using CI/CD**  
