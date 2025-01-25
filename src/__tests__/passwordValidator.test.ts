@@ -1,6 +1,6 @@
 /**
  * Function to validate if a given password meets the required criteria.
- * 
+ *
  * @function
  * @name isValidPasswordFunc
  * @param {string} password - The password string to be validated.
