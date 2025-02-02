@@ -12,8 +12,13 @@ function isValidEmail(email: string): boolean {
     return false;
   }
 
-  const domain = email.split('@')[1];
-  if (!domain || domain.startsWith('-') || domain.endsWith('-') || domain.includes('..')) {
+  const domain = email.split("@")[1];
+  if (
+    !domain ||
+    domain.startsWith("-") ||
+    domain.endsWith("-") ||
+    domain.includes("..")
+  ) {
     return false;
   }
 
