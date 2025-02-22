@@ -30,11 +30,15 @@ Follow these comprehensive guides to gain a solid understanding of the process:
 
 5. **Testing Your NPM Package**  
    Learn how to set up testing for your package to guarantee reliability and maintainability.
-   - [Source Code](hthttps://github.com/Devlander-Software/build-npm-package-example/tree/adding-tests)
-   - Coming out next week
+   - [Source Code](https://github.com/Devlander-Software/build-npm-package-example/tree/adding-tests)
+   - [Blog Article](https://medium.com/@landonwjohnson/testing-and-deploying-your-npm-package-with-jest-and-unit-testing-ca4acc0af641)
    
 6. ***Setting up ESlint and Prettier**
    Learn how to setup eslint and prettier to help find syntax errors, and auto format your package 
+   - [Source Code Start](https://github.com/Devlander-Software/build-npm-package-example/tree/typescript)
+   - [Source Code Finished](https://github.com/Devlander-Software/build-npm-package-example/tree/eslint-prettier-finished )
+   - [Blog Article](https://medium.com/p/9e5e549f7b3e)
+
    
 7. **Publishing and Versioning Your NPM Package Using CI/CD**  
    Automate your release process with CI/CD workflows to publish and version your package seamlessly.
