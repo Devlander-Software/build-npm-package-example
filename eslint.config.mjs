@@ -30,7 +30,7 @@ const normalizeGlobals = (globals = {}) =>
 export default [
   {
     // Ignore patterns
-    ignores: ["dist/", "eslint.config.mjs", "src/__tests__"], // Ignore eslint.config.mjs explicitly
+    ignores: ["dist/", "eslint.config.mjs", "src/__tests__", "jest.config.js"], // Ignore eslint.config.mjs explicitly
   },
   {
     files: ["src/**/*.ts"],
